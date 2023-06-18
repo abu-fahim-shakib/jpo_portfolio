@@ -1,0 +1,123 @@
+/* body{margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+p{
+  font-size: large;
+}
+.Young{
+    color: orange;
+}
+
+.half-width{
+width: 40%;
+float: left;
+margin-left: 5%;
+padding-left: 5%;
+}
+.half-width img{
+    width: 65%;
+    image-position: center;
+    height: 50%;
+}
+.top-Background{ 
+    background-image: url(Images/BAckground.png);
+    background-repeat: no-repeat ;
+    height: 500px;
+}
+section{
+    height: 500px;
+}
+.link-button{color: white;
+    text-decoration: none;
+    background-image: linear-gradient(90deg ,rgb(63, 63, 206),rgb(97, 192, 230),rgb(91, 91, 224));
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+
+
+.half-site{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    color: aliceblue;
+}
+.botom-background{
+background-image: url(Images/Desktop\ Wallpaper.png);
+background-repeat: no-repeat;
+}
+.half-site img{
+    width: 100%;
+} */
+
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+h1{
+    font-size: 50px;
+}
+.hilight{
+    color: blue;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+        width: 100%;
+}
+.background {
+    background-image: url( "Images/top-banner.png");
+    background-repeat: no-repeat;
+}
+.background2 {
+    background-image: url( "Images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+section{height: 500px;
+}
+.button{
+    background-image: linear-gradient(45deg, orange, rgb(240, 118, 81));
+    text-decoration: none;
+    border-color:skyblue ;
+    padding: 10px 20px;
+    border-radius: white;
+    font-weight: 700;
+}
+.single-Experiences{
+    box-shadow: 5px 5px 40px gray;
+    border-radius: 5px 5px ;
+    height: 60%;
+}
+.experience-area{
+    background-image: url(Images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, rgb(248, 239, 117), rgb(228, 116, 72));
+    border-image-slice: 1;
+
+}
+#half-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, rgb(80, 156, 226), rgb(149, 65, 218));
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+}
+.body{
+    text-shadow: 0cap;
+}
